@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/drawCoordinate.iml" filepath="$PROJECT_DIR$/drawCoordinate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawcoordinate/drawcoordinates.iml" filepath="$PROJECT_DIR$/drawcoordinate/drawcoordinates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
+    </modules>
+  </component>
+</project>
