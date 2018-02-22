@@ -3,10 +3,6 @@ package com.slpl.drawcoordinate.model;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * Created by Takaki on 2017/06/03.
- */
-
 @Getter
 @Setter
 public class WordData {
